@@ -1,0 +1,160 @@
+# Translation of Themes - Mobile Repair Services in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Mobile Repair Services package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-10 11:25:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Mobile Repair Services\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Mobile Repair Services"
+msgstr "Mobile Repair Services"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Mobile Repair Services is a versatile and functional WordPress theme designed specifically for mobile repair businesses, phone technicians, and electronic service providers. It offers a professional and visually appealing platform to showcase your services, attract customers, and streamline your repair operations. The theme features a modern and clean design that is visually engaging and user-friendly. With its responsive layout, your website will adapt seamlessly to different screen sizes, ensuring optimal viewing experiences on desktops, tablets, and smartphones. It incorporates intuitive navigation, clear typography, and well-organized sections, allowing visitors to easily navigate your site and find the information they need. The theme is packed with features that cater specifically to mobile repair services. It provides customizable sections to highlight your services, such as screen repairs, battery replacements, software updates, and more. You can showcase your expertise, certifications, and team members to build trust and credibility with potential customers. Additionally, the theme includes sections for customer testimonials, pricing tables, and appointment booking forms, enabling visitors to easily connect with your business and schedule repairs. The Mobile Repair Services WordPress theme integrates seamlessly with popular plugins, enhancing its functionality and customization options. With WooCommerce compatibility, you can effortlessly set up an online store to sell mobile accessories, and replacement parts, or even offer repair services online. The theme also supports integration with appointment scheduling plugins, allowing customers to book repair appointments directly through your website."
+msgstr "Servicios de reparación de móviles es un tema de WordPress versátil y funcional diseñado específicamente para empresas de reparación de móviles, técnicos telefónicos y proveedores de servicios electrónicos. Ofrece una plataforma profesional y visualmente atractiva para mostrar tus servicios, atraer clientes y agilizar tus operaciones de reparación. El tema presenta un diseño moderno y limpio, visualmente atractivo y fácil de usar. Con su diseño adaptativo, tu sitio web se adaptará perfectamente a diferentes tamaños de pantalla, garantizando una experiencia de visualización óptima en ordenadores de sobremesa, tabletas y teléfonos inteligentes. Incorpora navegación intuitiva, tipografía clara y secciones bien organizadas, lo que permite a los visitantes navegar fácilmente por tu sitio y encontrar la información que necesitan. El tema está repleto de funciones que se adaptan específicamente a los servicios de reparación de móviles. Ofrece secciones personalizables para destacar tus servicios, como reparaciones de pantalla, sustituciones de batería, actualizaciones de software y mucho más. Puedes mostrar tu experiencia, certificaciones y miembros del equipo para generar confianza y credibilidad entre los clientes potenciales. Además, el tema incluye secciones para testimonios de clientes, tablas de precios y formularios de reserva de citas, lo que permite a los visitantes conectar fácilmente con tu negocio y programar reparaciones. El tema de WordPress Mobile Repair Services se integra perfectamente con plugins populares, mejorando su funcionalidad y opciones de personalización. Gracias a la compatibilidad con WooCommerce, puedes crear sin esfuerzo una tienda online para vender accesorios para móviles y piezas de repuesto, o incluso ofrecer servicios de reparación online. El tema también admite la integración con plugins de programación de citas, lo que permite a los clientes reservar citas de reparación directamente a través de tu sitio web."
+
+#: functions.php:88
+msgid "Here you have to select category which will display Services in the home page. Note: Image Dimensions 450 x 300 px"
+msgstr "Aquí tienes que seleccionar la categoría que mostrará Servicios en la página de inicio. Nota: Dimensiones de la imagen 450 x 300 px"
+
+#: functions.php:35
+msgid "https://demo.themagnifico.net/eard/wathiqa/mobile-repair-services-free-doc/"
+msgstr "https://demo.themagnifico.net/eard/wathiqa/mobile-repair-services-free-doc/"
+
+#: comments.php:89
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: comments.php:88
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: functions.php:122
+msgid "Customizer Options"
+msgstr "Opciones del personalizador"
+
+#. translators: 1: Mobile Repair WordPress Theme,
+#: footer.php:87
+msgid " %1$s"
+msgstr " %1$s"
+
+#: functions.php:20
+msgid "https://wordpress.org/support/theme/mobile-repair-services/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/mobile-repair-services/reviews/#new-post"
+
+#: functions.php:17
+msgid "https://wordpress.org/support/theme/mobile-repair-services"
+msgstr "https://wordpress.org/support/theme/mobile-repair-services"
+
+#: functions.php:29
+msgid "https://demo.themagnifico.net/eard/wathiqa/mobile-repair-services-doc/ "
+msgstr "https://demo.themagnifico.net/eard/wathiqa/mobile-repair-services-doc/ "
+
+#: functions.php:23
+msgid "https://demo.themagnifico.net/mobile-repair-services/"
+msgstr "https://demo.themagnifico.net/mobile-repair-services/"
+
+#: functions.php:32
+msgid "Buy Mobile Services Pro"
+msgstr "Comprar Mobile Services Pro"
+
+#. translators: 1: TheMagnifico.
+#: footer.php:92
+msgid "By %1$s."
+msgstr "De %1$s."
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Plantilla de la página de inicio"
+
+#: functions.php:209
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: functions.php:207
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: footer.php:104
+msgid "TOP"
+msgstr "ARRIBA"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario sobre «%2$s»"
+msgstr[1] "%1$s comentarios sobre «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario sobre «%s»"
+
+#: template-parts/navigation/nav.php:22
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: template-parts/navigation/nav.php:62
+msgid "shopping cart"
+msgstr "carrito de la compra"
+
+#: functions.php:110
+msgid "Select category to display latest properties"
+msgstr "Selecciona la categoría para ver las últimas propiedades"
+
+#: page-template/home-template.php:80
+msgid "View Details"
+msgstr "Ver detalles"
+
+#: functions.php:87
+msgid "Services"
+msgstr "Servicios"
+
+#: functions.php:14
+msgid "Mobile Services Pro"
+msgstr "Mobile Services Pro"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"

@@ -1,0 +1,212 @@
+@charset "UTF-8";
+/*
+Theme Name: Mobile Repair Services
+Author: TheMagnifico52
+Theme URI: https://www.themagnifico.net/products/free-mobile-wordpress-theme
+Author URI: https://www.themagnifico.net/
+Description: Mobile Repair Services is a versatile and functional WordPress theme designed specifically for mobile repair businesses, phone technicians, and electronic service providers. It offers a professional and visually appealing platform to showcase your services, attract customers, and streamline your repair operations. The theme features a modern and clean design that is visually engaging and user-friendly. With its responsive layout, your website will adapt seamlessly to different screen sizes, ensuring optimal viewing experiences on desktops, tablets, and smartphones. It incorporates intuitive navigation, clear typography, and well-organized sections, allowing visitors to easily navigate your site and find the information they need. The theme is packed with features that cater specifically to mobile repair services. It provides customizable sections to highlight your services, such as screen repairs, battery replacements, software updates, and more. You can showcase your expertise, certifications, and team members to build trust and credibility with potential customers. Additionally, the theme includes sections for customer testimonials, pricing tables, and appointment booking forms, enabling visitors to easily connect with your business and schedule repairs. The Mobile Repair Services WordPress theme integrates seamlessly with popular plugins, enhancing its functionality and customization options. With WooCommerce compatibility, you can effortlessly set up an online store to sell mobile accessories, and replacement parts, or even offer repair services online. The theme also supports integration with appointment scheduling plugins, allowing customers to book repair appointments directly through your website.
+Version: 2.2.5
+Tested up to: 6.6
+Requires PHP: 7.2
+Requires at least: 5.0
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: mobile-repair-zone
+Text Domain: mobile-repair-services
+Tags: custom-logo, one-column, two-columns, wide-blocks, block-styles, editor-style, sticky-post, custom-background, custom-colors, custom-header, custom-menu, featured-images, flexible-header, full-width-template, threaded-comments, theme-options, rtl-language-support, left-sidebar, right-sidebar, grid-layout, news, photography, e-commerce
+
+Mobile Repair Services WordPress Theme has been created by TheMagnifico52(themagnifico.net), 2023.
+Mobile Repair Services WordPress Theme is released under the terms of GNU GPL
+*/
+h1, h2, h3, h4, h5, h6,body{
+    font-family: "poppins";
+}
+.social-links i:Hover,.top_header span a:hover,.top_header span:hover,.widget a:hover, .widget a:focus,h1, h2, h3, h4, h5, h6,#team_post h2,.article-box a ,h4.title a,.main-navigation .menu > li > a,.navbar-brand a,.navbar-brand p,.search-box a, a.cart-customlocation{
+    color: #002e5a;
+}
+.navbar-brand a:hover {
+    color: #ffffff;
+}
+.slider-inner-box h1 a:hover, .services .box-content:hover h4 a{
+    color: #00c3ed;
+}
+.sidebar section {
+    padding: 10px;
+}
+.services .box-content:hover .ser-btn a{
+    color:#002e5a;
+}
+.team-box .article-box p, .team-box .article-box:hover a{
+    color: #00c3ed;
+}
+.main-navigation .sub-menu > li > a:hover, .main-navigation .sub-menu > li > a:focus,.pro-button a:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,#button:hover, #button:active,.slider-box-btn a:hover, .headerbtn a:hover, .details-bg a:hover, .team-btn a:hover, .social-link i:hover{
+    background: #002e5a;
+}
+.main-navigation .menu > li > a:hover, #site-navigation .menu ul li a:hover{
+    color: #00c3ed;
+}
+.main-navigation ul.sub-menu > li > a:hover, .main-navigation ul.sub-menu > li > a:focus {
+    background: #1b212f;
+    color: #fff !important;
+}
+#site-navigation .menu ul li a{
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    color: #002e5a;
+}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li{
+    background: #00c3ed;
+}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:hover{
+    color: #002e5a;
+}
+p.price, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price,.woocommerce-message::before, .woocommerce-info::before,.main-navigation .menu > li > a:hover,.cart_box i:hover, .search-box i:hover,.sidebar ul li a:hover,a,.ser-btn a{
+    color: #00c3ed;
+}
+.top_header span,.top_header span a,.top_header i{
+    color: #fff;
+}
+.btn-primary,.woocommerce-message, .woocommerce-info,.post-navigation .nav-previous a:hover, .post-navigation .nav-next a:hover, .posts-navigation .nav-previous a:hover, .posts-navigation .nav-next a:hover{
+    border-color: #00c3ed;
+}
+.sidenav .closebtn,.toggle-nav i,.main-navigation .sub-menu,.wp-block-button__link,.comment-respond input#submit,.btn-primary,.woocommerce .woocommerce-ordering select,.pro-button a, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.serach_inner [type="submit"],.sidebar .tagcloud a:hover,.sidebar h5,.post-navigation .nav-previous a:hover, .post-navigation .nav-next a:hover, .posts-navigation .nav-previous a:hover, .posts-navigation .nav-next a:hover,.sidebar input[type="submit"], .sidebar button[type="submit"],#button,#colophon,.team-btn a,.slider-box-btn a, .details-bg a,.top_header {
+    background: #00c3ed;
+}
+.social-links i {
+    color: #00c3ed;
+    padding: 10px;
+    font-size: 14px;
+}
+.slider-inner-box{
+    top: 35%;
+    right: 50%;
+}
+.box-content p {
+    font-size: 14px;
+    line-height: 20px;
+    color: #757575;
+    font-weight: 400;
+}
+.main-navigation .menu > li > a{
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #002e5a;
+    font-weight: 600;
+}
+.slider-inner-box h1 a{
+    color: #ffffff;
+    font-weight: 700;
+}
+.slider-boxs img {
+    clip-path: ellipse(76% 91% at 50% 4%);
+    height: 600px;
+    object-fit: cover;
+}
+.box-image img {
+    width: 100%;
+    border-radius: 12px;
+}
+.ser-btn a {
+    font-size: 13px;
+    line-height: 20px;
+    color: #00c3ed;
+    font-weight: 500;
+    font-family: "Poppins";
+    text-align: center;
+}
+.services .box-content {
+    background: #fff;
+    padding: 26px;
+    z-index: 99999;
+    position: relative;
+    margin: 0 25px;
+    margin-top: -7em;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px 1px #ccc;
+}
+section.services {
+    position: relative;
+    margin-top: -12em;
+    z-index: 2;
+}
+.article-box:hover h3 a, .article-box:hover a.btn-text{
+  color: #00c3ed;
+}
+#colophon a:hover, #colophon a:focus {
+    color: #002e5a;
+}
+@media screen and (max-width: 575px){
+    #top-slider .owl-nav{
+        display: none;
+    }
+    .slider-inner-box {
+        right: 3%;
+        left: 3%;
+    }
+    .slider-box-btn{
+        margin-top: 15px !important;
+    }
+    .stick_header{
+        position: static !important;
+    }
+    .slider-box-btn a{
+        padding: 8px 25px;
+    }
+    .top_header span {
+        display: block;
+        margin: 0 0 10px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 720px){
+   .slider-boxs img{
+    height: 300px;
+   }
+}
+@media screen and (max-width: 600px){
+    .admin-bar .socialmedia.stick_header {
+        margin-top: 0px;
+    }
+}
+@media screen and (max-width: 1000px){
+    .slider-inner-box {
+        right: 10%;
+        left: 10%;
+    }
+    .main-navigation .menu > li{
+        display: block;
+    }
+    .main-navigation .menu > li > a{
+        color: #fff;
+    }
+    .main-navigation .sub-menu{
+        background: transparent;
+    }
+    section.services {
+        margin-top: 2em;
+   }
+   .toggle-nav.mobile-menu{
+        text-align: center;
+   }
+   .sidenav .closebtn{
+        background: #00c3ed;
+    }
+    .main-navigation ul.sub-menu > li > a:hover, .main-navigation ul.sub-menu > li > a:focus, .main-navigation .menu > li > a:hover {
+        background: transparent;
+        color: #00c3ed !important;
+    }
+    #site-navigation .menu ul li a{
+        color: #fff;
+    }
+}
+@media screen and (min-width: 1000px) and (max-width: 1199px){
+    .slider-inner-box {
+        right: 18%;
+        left: 18%;
+    }
+    section.services {
+        margin-top: -8em;
+    }
+      
+}
