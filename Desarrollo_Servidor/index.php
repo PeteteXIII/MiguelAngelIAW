@@ -141,7 +141,7 @@
             }
             realizarSaludo("Borja", 20);
             realizarSaludo("Celia", 18);
-            funcionExterna();
+            //funcionExterna();
             ?>
         </ul>
     </div>
