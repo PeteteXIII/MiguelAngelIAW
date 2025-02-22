@@ -20,7 +20,5 @@ if ($connection->connect_error) {
     echo "Conexión erronea";
     die("error en la conexion " . $connection->connect_error);
 } else {
-    echo "Conexión realizada con exito";
+    echo "Conexión realizada con exito: ";
 }
-
-?>
